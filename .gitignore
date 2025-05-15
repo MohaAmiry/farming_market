@@ -33,6 +33,9 @@ migrate_working_dir/
 /lib/firebase_options.dart
 /firebase.json
 /farming_market.zip
+/assets/*.docx
+/Designs
+
 # Symbolication related
 app.*.symbols
 
