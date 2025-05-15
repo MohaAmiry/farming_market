@@ -1,16 +1,11 @@
-# farming_market
+# What is Farming Market?
+it is an entry level application aimed to assist the students of flutter, riverpod statemanagement learned through implementation.
 
-A new Flutter project.
+# How does this application assist students?
+It will assist in the process of understanding how riverpod 2.0 statemanagement can be integrated into a codebase.
+this application is very well built using Riverpod 2.0 and a great feature driven design and clean architecture.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Contained features
+  1- User management.
+  2- multiple roles.
+  3- 
